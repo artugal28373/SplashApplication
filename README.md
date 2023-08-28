@@ -1,0 +1,2 @@
+# SplashApplication
+Android Lab Task
